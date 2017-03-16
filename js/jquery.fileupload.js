@@ -183,7 +183,7 @@
             // By default, uploads are started automatically when adding files:
             autoUpload: true,
             // if special chunk header does not supported - False by default
-            ignoreChunkHeader: false,
+            ignoreChunkHeader: true,
 
             // Error and info messages:
             messages: {
