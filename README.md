@@ -4,9 +4,9 @@ Based on blueimp/jQuery-File-Upload library, this upload widget provides JavaScr
 If you don't yet have a Kaltura Account, [**Regiter here for your Kaltura VPaaS Account**](https://vpaas.kaltura.com/register).
 
 # Documentation and guides
-* [Kaltura Developer Guides](https://vpaas.kaltura.com/documentation/01_VPaaS-API-Getting-Started/Getting-Started-VPaaS-API) 
 * [Kaltura API Docs](https://developer.kaltura.com)
-* [Kaltura Code Recipes](https://developer.kaltura.com/recipes/)
+* [Kaltura Code Workflows](https://developer.kaltura.com/workflows)
+* [Getting Started](https://developer.kaltura.com/api-docs/VPaaS-API-Getting-Started/Getting-Started-VPaaS-API.html)
 
 # Project Specific Sections and Information
 This JavaScript project can be used as reference or basis to implementing your own reliable chunked file upload to Kaltura.  
