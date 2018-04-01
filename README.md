@@ -1,7 +1,7 @@
 # Kaltura Chunked File Upload using jQuery
 Based on blueimp/jQuery-File-Upload library, this upload widget provides JavaScript based chunked upload with pause-and-resume and automatic optimization of file chunk size. Use this widget to implement a Kaltura file upload workflow in your web based applications.
 
-If you don't yet have a Kaltura Account, [**Regiter here for your Kaltura VPaaS Account**](https://vpaas.kaltura.com/register).
+If you don't yet have a Kaltura Account, [**Register here for your Kaltura VPaaS Account**](https://vpaas.kaltura.com/register).
 
 # Documentation and guides
 * [Kaltura API Docs](https://developer.kaltura.com)
